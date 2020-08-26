@@ -1,5 +1,3 @@
-;@	IN	A	127.0.0.1
-;@	IN	AAAA	::1
 @		IN	A	10.127.7.251
 @		IN	AAAA	fd10:127:7:2672::1:1
 ns1		IN	A	10.127.7.251
@@ -14,11 +12,10 @@ cn.transit	IN	AAAA	fd10:127:7:2672::1:2
 us.transit	IN	A	10.127.7.252
 us.transit	IN	AAAA	fd10:127:7:2672::1:3
 
-staphinfectedleo.amd64		IN	A	10.127.7.3
-staphinfectedleo.amd64		IN	AAAA	fd10:127:7:2672::2:3
-staphinfectedleo		IN	A	10.127.7.3
-staphinfectedleo		IN	AAAA	fd10:127:7:2672::2:3
-staphinfectedleo.pub		IN	AAAA	2001:bc8:1828:22c:4786::5
+leocurium			IN	A	10.127.7.3
+leocurium			IN	AAAA	fd10:127:7:2672::2:3
+leocurium.amd64			IN	A	10.127.7.3
+leocurium.amd64			IN	AAAA	fd10:127:7:2672::2:3
 
 kexyvmaoscagent001		IN	A	10.127.7.58
 kexyvmaoscagent001		IN	AAAA	fd10:127:7:2672::2:58
@@ -29,4 +26,3 @@ yhilemotea1601			IN	A	10.127.7.141
 yhilemotea1601			IN	AAAA	fd10:127:7:2672::3:141
 yhilemotea1601.mips		IN	A	10.127.7.141
 yhilemotea1601.mips		IN	AAAA	fd10:127:7:2672::3:141
-

@@ -9,6 +9,7 @@ Anyone can get connected into this network using tinc.
 1. Create your tinc config dir (In our example, `/etc/tinc/AOSCNet`).
 1. Copy `tinc.conf` `tinc-up` `tinc-down` into your tinc config dir.
 1. Modify `tinc.conf` in your tinc config dir so it contains your machine name. See Naming Convention.
+1. Modify `tinc.conf` in your tinc config dir so it contains `ConnectTo=CLOSEST\_TRANSIT`. See Transit.
 1. Modify `db.aosc` with the IP address you want to use and your machine name. See IP Assignment.
 1. Copy either `tinc-world/hosts` or `tinc-cn/hosts` depending on your location to your tinc config dir.
 1. Generate your pubkey with `tincd -n -K4096`.
@@ -24,6 +25,18 @@ we kindly ask you to prefix your machine name with your nickname.
 
 Also, when updating the DNS record, please add another entry with your arch/role.
 See existing entries as a reference.
+
+## Transit
+All transits contain all hosts file within the region (cn or world).
+
+Currently the following transits are in use
+
+* staphus - PA, US, Verizon, IPv4 only
+* staphnl - AMS, NL, Online.net, IPv4/v6
+
+_Although staphcn is also acting as a transit, it does NOT have a clearnet IP address, and can only peer with machines with a clearnet IP address._
+
+**Peering between CN and anywhere else has its own risk. AOSCNet is not responsible for any damage or legal issue caused by it.**
 
 ## IP Assignment
 
