@@ -25,7 +25,7 @@ kexyvmaoscagent001.amd64	IN	AAAA	fd10:127:7:2672::2:58
 bairy3950x			IN	A	10.127.7.233
 bairy3950x			IN	AAAA	fd10:127:7:2672::2:333
 bairy3950x.amd64		IN	A	10.127.7.233
-bairy3950x.amd64		IN	A	fd10:127:7:2672::2:333
+bairy3950x.amd64		IN	AAAA	fd10:127:7:2672::2:333
 
 yhilemotea1601			IN	A	10.127.7.141
 yhilemotea1601			IN	AAAA	fd10:127:7:2672::3:141
