@@ -31,3 +31,8 @@ yhilemotea1601			IN	A	10.127.7.141
 yhilemotea1601			IN	AAAA	fd10:127:7:2672::3:141
 yhilemotea1601.mips		IN	A	10.127.7.141
 yhilemotea1601.mips		IN	AAAA	fd10:127:7:2672::3:141
+
+bailemotea1901			IN	A	10.127.7.39
+bailemotea1901			IN	AAAA	fd10:127:7:2672::3:869
+bailemotea1901.mips		IN	A	10.127.7.39
+bailemotea1901.mips		IN	AAAA	fd10:127:7:2672::3:869
