@@ -41,3 +41,6 @@ baipowernv			IN	A	10.127.7.52
 baipowernv			IN	AAAA	fd10:127:7:2672::5:202
 baipowernv.powerpc		IN	A	10.127.7.52
 baipowernv.powerpc		IN	AAAA	fd10:127:7:2672::5:202
+
+neruthes1cn			IN	A	10.127.7.42
+neruthes1cn			IN	AAAA	fd10:127:7:2672::1:666
