@@ -37,6 +37,11 @@ bailemotea1901			IN	AAAA	fd10:127:7:2672::3:869
 bailemotea1901.mips		IN	A	10.127.7.39
 bailemotea1901.mips		IN	AAAA	fd10:127:7:2672::3:869
 
+baijellyxavier			IN	A	10.127.7.44
+baijellyxavier			IN	AAAA	fd10:127:7:2672::4:444
+baijellyxavier.arm		IN	A	10.127.7.44
+baijellyxavier.arm		IN	AAAA	fd10:127:7:2672::4:444
+
 baipowernv			IN	A	10.127.7.52
 baipowernv			IN	AAAA	fd10:127:7:2672::5:202
 baipowernv.powerpc		IN	A	10.127.7.52
