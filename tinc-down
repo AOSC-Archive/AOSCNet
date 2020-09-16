@@ -4,7 +4,7 @@ case `uname` in
 	Linux)
 		ip link set $INTERFACE down
 		;;
-	*BSD)
+	*BSD|Darwin)
 		ifconfig $INTERFACE down
 		;;
 esac
