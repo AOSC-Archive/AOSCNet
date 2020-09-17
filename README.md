@@ -33,8 +33,7 @@ Currently the following transits are in use
 
 * staphus - PA, US, Verizon, IPv4 only
 * staphnl - AMS, NL, Online.net, IPv4/v6
-
-_Although staphcn is also acting as a transit, it does NOT have a clearnet IP address, and can only peer with machines with a clearnet IP address._
+* neruthes1cn - HZ, CN, China Unicom, IPv4 only
 
 **Peering between CN and anywhere else has its own risk. AOSCNet is not responsible for any damage or legal issue caused by it.**
 
