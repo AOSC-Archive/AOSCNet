@@ -1,8 +1,10 @@
 @		IN	A	10.127.7.251
 @		IN	AAAA	fd10:127:7:2672::1:1
 
-ns1		IN	CNAME	staphnl
-ns2		IN	CNAME	staphus
+ns1		IN	A	10.127.7.251
+ns1		IN	AAAA	fd10:127:7:2672::1:1
+ns2		IN	A	10.127.7.252
+ns2		IN	AAAA	fd10:127:7:2672::1:3
 
 nl.transit	IN	CNAME	staphnl
 cn.transit	IN	CNAME	neruthes1cn
