@@ -65,5 +65,9 @@ baipowernv			IN	AAAA	fd10:127:7:2672::5:202
 baipowernv.powerpc		IN	A	10.127.7.52
 baipowernv.powerpc		IN	AAAA	fd10:127:7:2672::5:202
 
+nl.repo				IN	CNAME	staphnl.repo
+staphnl.repo			IN	A	10.127.7.251
+staphnl.repo			IN	AAAA	fd10:127:7:2672::a:1
+
 staphpb				IN	AAAA	fd10:127:7:2672::10:7972
 staphpb.dev			IN	AAAA	fd10:127:7:2672::10:7972
