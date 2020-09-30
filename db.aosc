@@ -30,6 +30,11 @@ neruthes1cn			IN	AAAA	fd10:127:7:2672::1:666
 neruthes1cn.transit		IN	A	10.127.7.42
 neruthes1cn.transit		IN	AAAA	fd10:127:7:2672::1:666
 
+icenowycn			IN	A	10.127.7.253
+icenowycn			IN	AAAA	fd10:127:7:2672::1:253
+icenowycn.transit		IN	A	10.127.7.253
+icenowycn.transit		IN	AAAA	fd10:127:7:2672::1:253
+
 leocurium			IN	A	10.127.7.3
 leocurium			IN	AAAA	fd10:127:7:2672::2:3
 leocurium.amd64			IN	A	10.127.7.3
