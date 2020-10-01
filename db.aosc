@@ -9,6 +9,8 @@ ns2		IN	AAAA	fd10:127:7:2672::1:3
 nl.transit	IN	CNAME	staphnl
 cn.transit	IN	CNAME	neruthes1cn
 us.transit	IN	CNAME	staphus
+it.transit	IN	CNAME	gumblexgaliait
+de.transit	IN	CNAME	gumblexlaurade
 
 staphnl				IN	A	10.127.7.251
 staphnl				IN	AAAA	fd10:127:7:2672::1:1
@@ -76,3 +78,18 @@ staphnl.repo			IN	AAAA	fd10:127:7:2672::a:1
 
 staphpb				IN	AAAA	fd10:127:7:2672::10:7972
 staphpb.dev			IN	AAAA	fd10:127:7:2672::10:7972
+
+gumblexdeliala				IN	A	10.127.7.106
+gumblexdeliala				IN	AAAA	fd10:127:7:2672::1:106
+gumblexdeliala.transit			IN	A	10.127.7.106
+gumblexdeliala.transit			IN	AAAA	fd10:127:7:2672::1:106
+
+gumblexgaliait				IN	A	10.127.7.110
+gumblexgaliait				IN	AAAA	fd10:127:7:2672::1:110
+gumblexgaliait.transit			IN	A	10.127.7.110
+gumblexgaliait.transit			IN	AAAA	fd10:127:7:2672::1:110
+
+gumblexlaurade				IN	A	10.127.7.114
+gumblexlaurade				IN	AAAA	fd10:127:7:2672::1:114
+gumblexlaurade.transit			IN	A	10.127.7.114
+gumblexlaurade.transit			IN	AAAA	fd10:127:7:2672::1:114

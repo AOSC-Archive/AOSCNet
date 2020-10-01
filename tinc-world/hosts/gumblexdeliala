@@ -1,0 +1,12 @@
+Address = delia.hosts.fcapps.work
+Port = 2672
+Compression = 10
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAm6aUVmhbre0+dIngwOkJTj8h8W8R4qbnQiDtHwP7C6mSZiF7b/t7
+GHb7bOHNJGY3tuYP6LoKo/Dz4OUMxBHqSftvXiGZT9xJ7PqfmQRekwimwdXNtLDO
+NzZkuDasX3Ov0/LjpsIPkEI8OIqxu18MEqSw7Sz9IvHvUzgFoNyoe0axdCuM9Jxu
+W5PR82Zq/o78tjTmxKWGF6kcytGDmHdKwGzHmHYDsv5glQU8sTB+O8JkgmA2XyKA
+iLi3RD85J869hsPFpVgRPskZCThF4/qzwkVD7q3SYf1qHWMjqrHBhKGAbQbXS0sJ
+HJVZlz3Jwv4U3s+a70CVbJ4fYjaoUDj5zQIDAQAB
+-----END RSA PUBLIC KEY-----
