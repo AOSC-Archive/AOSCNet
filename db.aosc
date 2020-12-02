@@ -67,6 +67,11 @@ baijellyxavier			IN	AAAA	fd10:127:7:2672::4:444
 baijellyxavier.arm		IN	A	10.127.7.44
 baijellyxavier.arm		IN	AAAA	fd10:127:7:2672::4:444
 
+aosckp920			IN	A	10.127.7.92
+aosckp920			IN	AAAA	fd10:127:7:2672::4:920
+aosckp920.arm			IN	A	10.127.7.92
+aosckp920.arm			IN	AAAA	fd10:127:7:2672::4:920
+
 baipowernv			IN	A	10.127.7.52
 baipowernv			IN	AAAA	fd10:127:7:2672::5:202
 baipowernv.powerpc		IN	A	10.127.7.52
