@@ -27,10 +27,8 @@ staphus				IN	AAAA	fd10:127:7:2672::1:3
 staphus.transit			IN	A	10.127.7.252
 staphus.transit			IN	AAAA	fd10:127:7:2672::1:3
 
-neruthesvs2icn			IN	A	10.127.7.42
-neruthesvs2icn			IN	AAAA	fd10:127:7:2672::1:666
-neruthesvs2icn.transit		IN	A	10.127.7.42
-neruthesvs2icn.transit		IN	AAAA	fd10:127:7:2672::1:666
+neruthesndlt7			IN	A	10.127.7.42
+neruthesndlt7			IN	AAAA	fd10:127:7:2672::10:666
 
 icenowycn			IN	A	10.127.7.253
 icenowycn			IN	AAAA	fd10:127:7:2672::1:253
