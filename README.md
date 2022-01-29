@@ -33,7 +33,6 @@ Currently the following transits are in use
 
 * staphus - PA, US, Verizon, IPv4 only
 * staphnl - AMS, NL, Online.net, IPv4/v6
-* neruthes1cn - HZ, CN, China Unicom, IPv4 only
 
 **Peering between CN and anywhere else has its own risk. AOSCNet is not responsible for any damage or legal issue caused by it.**
 
@@ -51,7 +50,7 @@ As the IPv4 address is limited, IPv6-only machines are welcomed.
 ### IPv6
 The IPv6 part of the AOSCNet has the address space of `fd10:127:7:2672::/64`.
 
-Any machine on AOSCNet MUST has an IPv6 address.
+Any machine on AOSCNet MUST have an IPv6 address.
 
 The last 4 hex digits are assigned on a first-come-first-serve basis.
 
